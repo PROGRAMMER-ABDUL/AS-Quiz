@@ -1,0 +1,12 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyAkPgYoDbWmvT9YKSb5zLZ_CaS47aDUjZQ",
+    authDomain: "quiz-app-as.firebaseapp.com",
+    databaseURL: "https://quiz-app-as-default-rtdb.firebaseio.com",
+    projectId: "quiz-app-as",
+    storageBucket: "quiz-app-as.appspot.com",
+    messagingSenderId: "600402690826",
+    appId: "1:600402690826:web:cef10a6139dad4e20530f3"
+  };
+  
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
